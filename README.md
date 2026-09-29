@@ -21,13 +21,13 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alien%20Monster.png" width="35" /> 01 // SYSTEM OVERVIEW
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/Blue%20Circle.png" width="35" /> 01 // SYSTEM OVERVIEW
 
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
       <br />
-      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Graduation%20Cap/Graduation%20Cap.png" width="22" /> <b>Education:</b> Pursuing D4/S1 Information Systems (Semester 5)</p>
+      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Graduation%20Cap/Graduation%20Cap.png" width="22" /> <b>Education:</b> Pursuing S1 Information Systems</p>
       <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22" /> <b>Current Role:</b> Operations, IT Support & Data Admin @ ISP Network</p>
       <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="22" /> <b>Focus:</b> Network Infrastructure, Ethical Hacking, OSINT, & Systems Admin</p>
       <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20With%20Meridians.png" width="22" /> <b>Open For:</b> Remote / Freelance Opportunities (Security & Dev)</p>
